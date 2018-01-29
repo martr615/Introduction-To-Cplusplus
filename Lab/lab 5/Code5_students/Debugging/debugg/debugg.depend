@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1505216174 source:c:\users\martin\desktop\tnd012 - 2017\lab\lab 5\code5_students\deb2.cpp
+	<cstdlib>
+	<iostream>
+
